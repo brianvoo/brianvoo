@@ -4,13 +4,16 @@
 📫 Reach me on LinkedIn <a href="https://www.linkedin.com/in/brianvoo">@brianvoo</a>
 
 # 🖋️ About
-Pivoting into a technology role bringing 10 years of professional experience in corporate communications, public relations, digital marketing and social media management.
+Pivoted into a cloud engineer role bringing 10 years of professional experience in corporate communications, public relations, digital marketing and social media management.
 
-AWS Certified Solutions Architect (SAA-C03) and excited to leverage this newfound knowledge to contribute to the ever-evolving tech landscape. Self-taught Python developer with strong skills in Flask, Django and Django Rest Framework. Continued learnings in cybersecurity with aims to achieve the CompTIA Security+ certificate in early 2024.
+Leveraging my knowledge as an AWS Certified Solutions Architect to contribute to the design and implementation of cloud solutions for internal stakeholders and clients. 
+
+Aiming to achieve the AWS Solutions Architect Professional certification by Q3 2024 as proof of my ability to effectively grasp complex concepts and continuously advance my knowledge.
 
 # 📜 Certifications
 ✔️ AWS Certified Solutions Architect - Associate (SAA-C03), Amazon Web Services ([Link](https://www.credly.com/badges/a47ebe12-4234-494f-a602-4e3301608712/public_url))<br>
-✔️ Certified in Cybersecurity (CC), ISC2 ([Link](https://www.credly.com/badges/af57af2c-10ba-498f-823e-6336a957a7de/public_url))
+✔️ Certified in Cybersecurity (CC), ISC2 ([Link](https://www.credly.com/badges/af57af2c-10ba-498f-823e-6336a957a7de/public_url))<br>
+✔️ Oracle Cloud Infrastructure 2024 Generative AI Certified Professional ([Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A8B71ACD44455853223944529EEEFFCDBE92C31092B94E5AD6D219960D447657))
 
 # 💼 Career Outlook
 ☁️ Cloud solutions<br>
